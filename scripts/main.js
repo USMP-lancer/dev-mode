@@ -15,8 +15,9 @@
 	along with this program.	If not, see <https://www.gnu.org/licenses/>.
 */
 
-Vars.enableConsole = true;
+Vars.maxSchematicSize = 128;
 
 if (Vars.mobile) {
 	require("button");
 }
+//theivery of the lowest kind
